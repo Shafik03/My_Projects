@@ -1,4 +1,4 @@
-package java_project;
+
 
 import java.util.Scanner;
 public class fibonacci {
@@ -13,7 +13,7 @@ public class fibonacci {
 	}
 public static void main(String args[]) {
 	Scanner sc= new Scanner(System.in);
-    System.out.print("Enter the size of the series": );
+    System.out.print("Enter the size of the series:" );
 	int N=sc.nextInt();
 	fiboseries(N);
 	sc.close();
