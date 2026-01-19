@@ -1,5 +1,3 @@
-package java_project;
-
 import java.util.Scanner;
 public class array_creation {
 	public static void main(String[] args) {
