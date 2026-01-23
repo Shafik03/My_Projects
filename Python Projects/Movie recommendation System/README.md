@@ -31,10 +31,10 @@ A data-driven web application that provides instant, top-rated movie recommendat
 
  🎮 How to Run
  In your terminal or VS Code terminal, run the following command:
- streamlit run movie_recommender_app.py
+        streamlit run movie_recommender_app.py
 
  If you encounter a "command not found" error, use:
- python -m streamlit run movie_recommender_app.py
+     python -m streamlit run movie_recommender_app.py
 
 
  📂 Project Structure:
